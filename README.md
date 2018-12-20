@@ -29,15 +29,15 @@ The generated pages are stored in the output folder for use with the cronjob det
 just hijack content with it.<br>
 <b><em>Random Banners: </em></b>Simple banner rotator used in the footer.<br>
 <b><em>Random Headlines: </em></b>Radomly displayed H1 tags with some pretty nifty css.<br>
-<b><em>Random Titles: </em></b>Yes, Random page titles. Pretty fun to watch your results.
-<b><em>Simple Contact Form: </em></b>Yes, exactly that.
+<b><em>Random Titles: </em></b>Yes, Random page titles. Pretty fun to watch your results.<br>
+<b><em>Simple Contact Form: </em></b>Yes, exactly that.<br>
 <b><em>Simple Logger: </em></b>He cuts down arbivitae and shrubs.<br>
 Simple Logger compiles your site traffic into a csv file and when used with cronjobs is really a<br>
 great way to monitor your results.<br>
 <b><em>Site Submit: </em></b>Bing is due to close down it's anonymous submit here soon, but for now<br>
 it still seems to be working. This php file submits to both Google and Bing when viewed.<br>
 I highly recommend changing the file name and stashing it somewhere your visitors are unlikely to find.<br>
-I recommend using cronjobs with this too and have included Read Me files for most of the plugins.<br>
+I recommend using cronjobs with this too and have included Read Me files for most of the plugins.<br><br>
 
 http://www.h2seo.net/<br>
 KoNxT3D
