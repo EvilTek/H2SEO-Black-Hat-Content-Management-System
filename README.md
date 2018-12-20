@@ -34,6 +34,7 @@ just hijack content with it.<br>
 <b><em>Simple Logger: </em></b>He cuts down arborvitae and shrubs.<br>
 Simple Logger compiles your site traffic into a csv file and when used with cronjobs is really a<br>
 great way to monitor your results.<br>
+File: inc/footer.php <iframe>.<br>
 <b><em>Site Submit: </em></b>Bing is due to close down it's anonymous submit here soon, but for now<br>
 it still seems to be working. This php file submits to both Google and Bing when viewed.<br>
 I highly recommend changing the file name and stashing it somewhere your visitors are unlikely to find.<br>
