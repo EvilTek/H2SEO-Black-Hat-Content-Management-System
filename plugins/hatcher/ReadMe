@@ -1,0 +1,36 @@
+H₂SEO Hatcher Plugin
+
+Instructions:
+
+The Hatcher is part of the black hat seo exploit that leads search engines to believe
+that the index.php and any other included files have been modified on a regular basis and improve overall ranking.
+This will generate a copy of your latest index.php and generate keyword.php files
+based on the text entered into the list.txt.
+
+Edit list.txt to your linked page names, ie: keywords-are-good or somefile (sample lines included).
+The Banker will generate a keywords-are-good.php file to the output folder.
+Using multiple lines will generate multiple keyword php files, but if you do not
+link to them individually it won't do you much good to use this feature.
+
+If you are not familiar with cronjobs or scripting up an automated process, you can always
+manually copy the page to your root directory.
+
+Using a cronjob to copy the index.php from The Hatcher into the root directory.
+This is the highest recommended setting.
+
+0	*	*	*	*	cp public_html/or_path_to_dir/plugins/hatcher/output/index.php public_html/or_path_to_dir/index.php >/dev/null
+
+Setting the cronjob any faster won't do any good and one hour is sufficient.
+
+Using Telnet / SSH
+1: Upload all Hatcher files to the plugins folder.
+2: Connect to your server.
+3: cd /path/to/hatcher/
+4: $chmod +x banker
+5: $ ./banker
+
+This will generate all your output files on the server.
+Cronjob:
+0	*	*	*	*	cp -r public_html/your-site-root/plugins/hatcher/output/. public_html/your-site-root/ >/dev/null
+
+The . will copy all files (wildcard use)

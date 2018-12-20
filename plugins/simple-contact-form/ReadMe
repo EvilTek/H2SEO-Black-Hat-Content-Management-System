@@ -1,0 +1,9 @@
+H₂SEO Simple Contact Form Plugin
+
+Simple Contact Form is very easy to use and edit.
+
+Instructions:
+Edit lines 5 and 6 in the contact-form-validate.php to suit
+your email address and message subject.
+Simple Contact Form uses X-Mailer: PHP to send the email message.
+You may need to configure to your system.

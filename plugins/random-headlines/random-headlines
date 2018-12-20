@@ -1,0 +1,6 @@
+<?php
+$headlines = file('plugins/random-headlines/headlines');
+echo $headlines[array_rand($headlines)];
+unset($headlines);
+$headlines = array();
+?>

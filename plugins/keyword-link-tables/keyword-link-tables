@@ -1,0 +1,10 @@
+<p><table width="100%"><tr>
+<?php
+$keywordlinktablelines = file('plugins/keyword-link-tables/keylinks');
+echo $keywordlinktablelines[array_rand($keywordlinktablelines)];
+echo $keywordlinktablelines[array_rand($keywordlinktablelines)];
+echo $keywordlinktablelines[array_rand($keywordlinktablelines)];
+unset($keywordlinktablelines);
+$keywordlinktablelines = array();
+?>
+</tr></table></p>

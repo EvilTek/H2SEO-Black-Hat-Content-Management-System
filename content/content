@@ -1,0 +1,15 @@
+<?php
+/*
+ HERE IS WHERE WE PICK RANDOM CONTENT FROM THE CORLINES AND PULPLINES FILES
+ CORELINES - EXAMPLE IN BASIC PLAIN TEXT AS PAGE CONTENT
+ PULPLINES - EXAMPLE IN BASIC PLAIN TEXT WITH HYPERLINKS CONTENT
+ EDIT THE CORELINES AND PULPLINES FILES TO SUIT YOUR SPECIFIC CONTENT AND KEYWORDS
+*/
+$corelines = file('content/core');
+$pulplines = file('content/pulp');
+echo $corelines[array_rand($corelines)];
+echo $pulplines[array_rand($pulplines)];
+echo $corelines[array_rand($corelines)];
+echo $pulplines[array_rand($pulplines)];
+echo $corelines[array_rand($corelines)];
+?>

@@ -1,0 +1,24 @@
+<div align="center">
+<hr>
+<table width="100%">
+  <tr>
+    <th bgcolor="#0c0c0c"><h3><a href="index.php">Refresh Content</a></h3></th>
+    <th bgcolor="#0c0c0c"><h3><a href="http://www.h2seo.net/" target="_blank" >H₂SEO Web Site</a></h3></th>
+    <th bgcolor="#0c0c0c"><h3><a href="https://eviltek.net/" target="_blank" >EvilTek Software & Security</a></h3></th>
+    <th bgcolor="#0c0c0c"><h3><a href="http://www.h2seo.net/downloads/cms.update/H₂SEO.Latest.zip" target="_blank" >Download H₂SEO</a></h3></th>
+    <th bgcolor="#0c0c0c">
+<a href="javascript: void(0)" 
+   onclick="window.open('plugins/simple-contact-form/contact-form.php', 
+  'EvilProxy', 
+  'width=480, \
+   height=560, \
+   directories=no, \
+   location=no, \
+   menubar=no, \
+   resizable=no, \
+   scrollbars=1, \
+   status=no, \
+   toolbar=no'); 
+  return false;"><h3>Contact Us</a></h3></th>
+  </tr>
+</table></div><hr>

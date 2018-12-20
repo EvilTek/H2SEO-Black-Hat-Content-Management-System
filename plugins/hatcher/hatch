@@ -1,0 +1,1 @@
+for i in $(cat list.txt); do cp index.php output/$i.php; done

@@ -1,0 +1,6 @@
+<?php
+$footerimgrotate = file('plugins/random-banners/banners');
+echo $footerimgrotate[array_rand($footerimgrotate)];
+unset($footerimgrotate);
+$footerimgrotate = array();
+?>

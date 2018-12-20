@@ -1,0 +1,6 @@
+<?php
+$pagetitles = file('plugins/random-titles/pagetitles');
+echo $pagetitles[array_rand($pagetitles)];
+unset($pagetitles); // CLEAR PAGE TITLE ARRAY
+$pagetitles = array(); // RESET PAGE TITLE ARRAY
+?>
