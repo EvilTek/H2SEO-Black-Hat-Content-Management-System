@@ -16,7 +16,28 @@ with a few little hacks..
 Make it easy on yourself, download the zip, unzip it where ever you're going to test it.<br>
 Run it, hack it up to your liking and make something great from it.<br>
 No frills, no complications, any text editor will do.<br>
-I like simple.
+I like simple.<br>
+<h2>Plugins:</h2>
+H₂SEO comes with several default plugins.<br>
+<b><em>The Hatcher: </em></b>This plugin is relly my favorite part of H₂SEO CMS.<br>
+The Hatcher is a Bash script (without the .sh extention) you can run to deploy your new content.
+It generates keyword named pages for you, based on the keywords used in the list.txt<br>
+The generated pages are stored in the output folder for use with the cronjob detailed in..<br>
+<em> /plugins/hatcher/ReadMe.txt</em><br>
+<b><em>Keyword Link Tables: </em></b>This plugin provides randomly displayed keyword links throughout the page.<br>
+<b><em>PageClone: </em></b>This is an additional use file. You can substitute it for The Hatcher's index.php or simply<br>
+just hijack content with it.<br>
+<b><em>Random Banners: </em></b>Simple banner rotator used in the footer.<br>
+<b><em>Random Headlines: </em></b>Radomly displayed H1 tags with some pretty nifty css.<br>
+<b><em>Random Titles: </em></b>Yes, Random page titles. Pretty fun to watch your results.
+<b><em>Simple Contact Form: </em></b>Yes, exactly that.
+<b><em>Simple Logger: </em></b>He cuts down arbivitae and shrubs.<br>
+Simple Logger compiles your site traffic into a csv file and when used with cronjobs is really a<br>
+great way to monitor your results.<br>
+<b><em>Site Submit: </em></b>Bing is due to close down it's anonymous submit here soon, but for now<br>
+it still seems to be working. This php file submits to both Google and Bing when viewed.<br>
+I highly recommend changing the file name and stashing it somewhere your visitors are unlikely to find.<br>
+I recommend using cronjobs with this too and have included Read Me files for most of the plugins.<br>
 
 http://www.h2seo.net/<br>
 KoNxT3D
