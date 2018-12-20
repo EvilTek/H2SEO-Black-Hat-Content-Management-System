@@ -31,7 +31,7 @@ just hijack content with it.<br>
 <b><em>Random Headlines: </em></b>Radomly displayed H1 tags with some pretty nifty css.<br>
 <b><em>Random Titles: </em></b>Yes, Random page titles. Pretty fun to watch your results.<br>
 <b><em>Simple Contact Form: </em></b>Yes, exactly that.<br>
-<b><em>Simple Logger: </em></b>He cuts down arbivitae and shrubs.<br>
+<b><em>Simple Logger: </em></b>He cuts down arborvitae and shrubs.<br>
 Simple Logger compiles your site traffic into a csv file and when used with cronjobs is really a<br>
 great way to monitor your results.<br>
 <b><em>Site Submit: </em></b>Bing is due to close down it's anonymous submit here soon, but for now<br>
