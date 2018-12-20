@@ -1,5 +1,5 @@
 <div align="center"><h2>H2SEO-Black-Hat-Content-Management-System</h2>
-<b>The H₂SEO Black Hat Content Management System is a powerful tool in a very small package leaving you all the room you need to create your Black Hat SEO pages in bulk and grab all the traffic you can handle.</b></div>
+<b>The H₂SEO Black Hat Content Management System is a powerful tool in a very small package leaving you all the room you need to create your Black Hat SEO pages in bulk and grab all the traffic you can handle.</b></div><br>
 H₂SEO is a compilation of proven Black Hat SEO Techniques combined with some basic php that delivers great SEO based random content generated pages.<br>
 </em>That's a lot of words...</em>
 <h2>How does it work?</h2>
@@ -18,5 +18,5 @@ Run it, hack it up to your liking and make something great from it.<br>
 No frills, no complications, any text editor will do.<br>
 I like simple.
 
-http://www.h2seo.net/
+http://www.h2seo.net/<br>
 KoNxT3D
