@@ -7,9 +7,6 @@ to increase page loading speed you should delete all of the comments.
 Always keep a backup of the original files.
 */
 
-// Set The Plugins Directory
-//$plugins = dir('plugins/');
-
 // LOAD THE HEADER
 require('inc/header.php');
 
